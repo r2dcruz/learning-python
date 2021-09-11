@@ -10,3 +10,8 @@ def  my_function(one, two,
     
     
 my_function();
+
+#New day, starting out python from UDEMY
+
+name = input("what is your name? ")
+print("Hello " + name)
